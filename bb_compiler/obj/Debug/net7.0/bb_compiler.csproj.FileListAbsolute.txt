@@ -1,0 +1,15 @@
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\bin\Debug\net7.0\bb_compiler.exe
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\bin\Debug\net7.0\bb_compiler.deps.json
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\bin\Debug\net7.0\bb_compiler.runtimeconfig.json
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\bin\Debug\net7.0\bb_compiler.dll
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\bin\Debug\net7.0\bb_compiler.pdb
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.csproj.AssemblyReference.cache
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.AssemblyInfoInputs.cache
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.AssemblyInfo.cs
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.csproj.CoreCompileInputs.cache
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.dll
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\refint\bb_compiler.dll
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.pdb
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\bb_compiler.genruntimeconfig.cache
+C:\Users\yello\OneDrive\Desktop\compiler_project\C_sharp_compiler\bb_compiler\obj\Debug\net7.0\ref\bb_compiler.dll
